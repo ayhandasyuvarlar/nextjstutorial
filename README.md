@@ -65,3 +65,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### Prefetch can be disabled by passing prefetch={false}. Prefetching is only enabled in production.
 
 ![img](./public/prefetch.png)
+
+just do it => nextjs tutorial two lesson ,
