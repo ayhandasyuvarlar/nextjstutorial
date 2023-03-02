@@ -14,4 +14,13 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+# Route
 
+### One Web page enter time , public pages completely we say
+
+### Two sort route porcesss has
+
+- static route
+- dynamic route
+  - catch all routes
+  - optional catch all routes
